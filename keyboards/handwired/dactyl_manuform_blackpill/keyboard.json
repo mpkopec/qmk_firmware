@@ -10,9 +10,7 @@
         "console": true,
         "extrakey": true,
         "mousekey": true,
-        "caps_word": {
-            "enabled": true
-        },
+        "caps_word": true,
         "nkro": true
     },
     "matrix_pins": {
