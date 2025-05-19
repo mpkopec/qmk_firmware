@@ -18,7 +18,7 @@
         "rows": [ "B3", "B4",  "B6",  "B7",  "B8",  "B9"]
     },
     "tapping": {
-        "hold_on_other_key_press": true,
+        "permissive_hold": true,
         "term": 140
     },
     "split": {
