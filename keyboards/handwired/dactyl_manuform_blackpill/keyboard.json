@@ -19,7 +19,7 @@
     },
     "tapping": {
         "permissive_hold": true,
-        "term": 140
+        "term": 160
     },
     "split": {
         "enabled": true,

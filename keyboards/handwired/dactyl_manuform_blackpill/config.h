@@ -20,7 +20,8 @@
 // #define SPLIT_HAND_MATRIX_GRID A10, A4
 // 68kohm
 
-#define MASTER_RIGHT
+#define SPLIT_HAND_PIN C13
+#define SPLIT_HAND_PIN_LOW_IS_LEFT
 
 /* connection */
 #define SERIAL_USART_FULL_DUPLEX   // Enable full duplex operation mode.
